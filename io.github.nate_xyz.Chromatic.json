@@ -60,7 +60,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/nate-xyz/chromatic",
-                    "commit":"89545f21f8f87f1a11709c46f797e663ba7c51cf"
+                    "commit":"36ad5428e1da5431121cabe866343e1e6f57f01e"
                 }
             ]
         }
